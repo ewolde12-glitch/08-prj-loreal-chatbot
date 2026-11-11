@@ -1,5 +1,6 @@
 // Add your class Cloudflare Worker URL here. Never put an OpenAI API key in this file.
-const workerUrl = "https://loreal-chatbot.your-subdomain.workers.dev/";
+const workerUrl = "https://08-prj-loreal-chatbot.ewolde12.workers.dev/";
+";
 
 // Keep the conversation focused on L'Oréal products and beauty guidance.
 const systemMessage = {
